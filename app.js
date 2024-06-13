@@ -8,7 +8,7 @@ app.use(express.static(__dirname + '/public'));
 
 app.listen(port,function() {
   // print a message when the server starts listening
-  console.log("server starting on " + 8000);
+  //console.log("server starting on " + 8000);
 });
 
 
